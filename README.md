@@ -33,7 +33,7 @@ The outliner shown above on the 3D graph is class 2. It's the cryptocurrency tha
 
 - Tradable Currency Table
 
-At a glance of the tradable crypto table, majority of the cryptocurrencies fall in class 0 and class 1. The only class 2 crypto currency is BitTorrent. 
+At a glance of the tradable crypto table, majority of the cryptocurrencies fall in class 0 and class 1. The only crypto currency in class 2 is BitTorrent. 
 
 ![Tradable_crypto_table](https://user-images.githubusercontent.com/94089680/166112067-45d29687-2818-4593-913f-8e6c0785b1db.png)
 
